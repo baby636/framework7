@@ -81,7 +81,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-svelte3": "^2.7.3",
     "glob": "^7.1.6",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-connect": "^5.7.0",
     "husky": "^4.2.5",
     "less": "^3.11.1",
