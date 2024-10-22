@@ -97,7 +97,7 @@
     "rollup-plugin-vue": "^5.1.6",
     "svelte": "^3.20.1",
     "terser": "^4.6.11",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-template-compiler": "^2.6.11"
   }
 }
