@@ -62,7 +62,7 @@
     "template7": "^1.4.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-proposal-object-rest-spread": "^7.9.5",
     "@babel/plugin-transform-react-jsx": "^7.9.4",
     "@babel/preset-env": "^7.9.5",
@@ -78,7 +78,7 @@
     "eslint": "^6.8.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
-    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react": "^7.20.1",
     "eslint-plugin-svelte3": "^2.7.3",
     "glob": "^7.1.6",
     "gulp": "^4.0.2",
